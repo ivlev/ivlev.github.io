@@ -8,7 +8,7 @@
 
 ![Psychotherapy for Russian-speaking IT professionals](_img/700b.png)
 
-{% include _includes/refusal.html %}
+{% include refusal.html %}
 
 ## Отказ	
 
