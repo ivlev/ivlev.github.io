@@ -8,7 +8,7 @@
 
 {% include sessions.html %}
 
-{% include metod.html %}
+{% include method.html %}
 
 {% include technique.html %}
 
