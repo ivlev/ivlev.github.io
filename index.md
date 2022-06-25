@@ -8,6 +8,8 @@
 
 ![Psychotherapy for Russian-speaking IT professionals](_img/700b.png)
 
+{% include refusal.md $}
+
 ## Отказ	
 
 Терапия **не проводится** с **родственниками** или людьми **лично знакомыми** в **реальной** или **виртуальной** жизни.
