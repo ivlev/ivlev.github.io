@@ -16,10 +16,6 @@
 
 {% include payment.html %}
 
----
-_doc/Anonymous_cryptocurrencies/
----
-
 {% include confidentiality.html %}
 
 {% include anonymity.html %}
