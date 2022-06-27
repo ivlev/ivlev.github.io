@@ -1,7 +1,5 @@
----
-layout: default
-title: "Информированое согласие"
----
+# Информированое согласие
+
 {% include ethics.html %}
 
 ![Psychotherapy for Russian-speaking IT professionals](_img/700b.png)
