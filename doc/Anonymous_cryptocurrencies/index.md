@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2022-06-27 15:20:12 -0700
 title: "Анонимные криптовалюты"
-autor: "Александр"
-permal-n-k: /cc/
+autor: "Alexander"
+permalink: /cc/
 ---
 
 **Monero** (XMR)
