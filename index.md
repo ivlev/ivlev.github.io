@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Информированое согласие"
 ---
 {% include ethics.html %}
