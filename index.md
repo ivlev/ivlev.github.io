@@ -1,5 +1,6 @@
 ---
-title: Информированое согласие
+layout: default
+title: "Информированое согласие"
 ---
 {% include ethics.html %}
 
