@@ -2,7 +2,7 @@
 layout: post
 title: "Анонимные криптовалюты"
 author: "Александр"
-permalink: /"cc"/
+permalink: /cc/
 ---
 
 **Monero** (XMR)
