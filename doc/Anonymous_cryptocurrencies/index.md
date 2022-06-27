@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Анонимные криптовалюты"
-autor: "Alexander"
+author: "Александр"
 permalink: /cc/
 ---
 
