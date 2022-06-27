@@ -17,7 +17,7 @@
 {% include payment.html %}
 
 ---
-permalink: _doc/Anonymous_cryptocurrencies/
+_doc/Anonymous_cryptocurrencies/
 ---
 
 {% include confidentiality.html %}
