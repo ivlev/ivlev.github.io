@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+layout: default
 include:
   - "_img"
 title: Психологическая помощь русскоговорящим ит-специалистам
