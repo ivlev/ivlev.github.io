@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Анонимные криптовалюты"
 autor: "Александр"
 permalink: /cc/
