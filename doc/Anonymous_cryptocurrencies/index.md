@@ -1,7 +1,3 @@
----
-permalink: /cc/
----
-
 **Monero** (XMR)
 **Zcash** (ZEC)
 **Dash** (DASH)
