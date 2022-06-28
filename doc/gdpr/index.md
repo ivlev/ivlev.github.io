@@ -1,10 +1,6 @@
 ---
 layout: post
-title: "No page"
+title: "Общее положение о защите данных (GDPR)"
 author: "Александр"
-permalink: /gpdr/
+permalink: /gdpr/
 ---
-{% include doc/offer/preamble.md %}
-{% include doc/offer/subject.md %}
-
-Я в каталоге /doc/offer
