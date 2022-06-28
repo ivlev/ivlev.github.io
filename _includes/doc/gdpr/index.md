@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Соглашение об оработке персональных данных GDPR"
+title: "Договор публичной оферты по оказанию психологических услуг"
 author: "Александр"
-permalink: /dfdsjlfkdsjfl/
+permalink: /gpdr/
 ---
+{% include doc/offer/preamble.md %}
+{% include doc/offer/subject.md %}
 
-# ждэждэд
+Я в каталоге /doc/offer
