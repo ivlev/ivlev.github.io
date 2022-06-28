@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Договор публичной оферты по оказанию психологических услуг"
+title: "ljlkjlkjlkjlkj"
 author: "Александр"
 permalink: /gpdr/
 ---
