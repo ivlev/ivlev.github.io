@@ -6,3 +6,5 @@ permalink: /offer/
 ---
 {% include doc/offer/preamble.md %}
 {% include doc/offer/subject.md %}
+
+Я в каталоге /doc/offer
