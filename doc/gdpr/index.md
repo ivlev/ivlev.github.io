@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ljlkjlkjlkjlkj"
+title: "No page"
 author: "Александр"
 permalink: /gpdr/
 ---
