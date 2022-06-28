@@ -5,3 +5,4 @@ author: "Александр"
 permalink: /offer/
 ---
 {% include doc/offer/preamble.md %}
+{% include doc/offer/subject.md %}
