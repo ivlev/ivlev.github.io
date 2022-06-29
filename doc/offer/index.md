@@ -7,3 +7,4 @@ permalink: /offer/
 {% include doc/offer/preamble.md %}
 {% include doc/offer/subject.md %}
 {% include doc/offer/appform.md %}
+{% include doc/offer/duration.md %}
