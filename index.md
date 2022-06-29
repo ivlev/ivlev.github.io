@@ -12,7 +12,7 @@
 
 {% include technique.html %}
 
-{% include price.html %}
+{% include price.md %}
 
 {% include payment.html %}
 
