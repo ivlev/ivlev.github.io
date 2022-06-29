@@ -8,3 +8,4 @@ permalink: /offer/
 {% include doc/offer/subject.md %}
 {% include doc/offer/appform.md %}
 {% include doc/offer/duration.md %}
+{% include doc/offer/payment.md %}
