@@ -25,3 +25,7 @@ let moment = require('moment');
 require('moment-timezone');
 moment.tz.setDefault("America/Los_Angeles");
 </script>
+
+<script type="text/javascript">
+console.log("it's work!")
+</script>
