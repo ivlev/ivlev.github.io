@@ -30,3 +30,7 @@ permalink: /cc/
 	console.log("it's work!");
 </script>
 
+<script>
+var time = new Date();
+console.log(time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds());
+</script>
