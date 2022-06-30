@@ -21,7 +21,9 @@ permalink: /cc/
 <script src="https://gist.github.com/ivlev/0182a8b5d7b0b39ecdd3d410a03accb8.js"></script>
 
 
-<script>console.log("it's work!");</script>
+<script>
+console.log("This is a string in the console.");
+</script>
 
 <script>
 var time = new Date();
