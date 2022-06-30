@@ -22,10 +22,11 @@ permalink: /cc/
 
 <script type="text/javascript">
 	let moment = require('moment');
-	require('moment-timezone');
+		require('moment-timezone');
 	moment.tz.setDefault("America/Los_Angeles");
 </script>
 
 <script language="JavaScript">
-	console.log("it's work!")
+	console.log("it's work!");
 </script>
+
