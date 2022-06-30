@@ -15,3 +15,5 @@ permalink: /cc/
 **PIVX** (PIVX)
 **NavCoin** (NAV)
 **Zcoin** (XZC)
+
+{% gist bfa3323b4e607144269cbd27f9295b5f %}
