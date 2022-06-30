@@ -16,4 +16,4 @@ permalink: /cc/
 **NavCoin** (NAV)
 **Zcoin** (XZC)
 
-{% gist bfa3323b4e607144269cbd27f9295b5f %}
+{% gist 0182a8b5d7b0b39ecdd3d410a03accb8 %}
