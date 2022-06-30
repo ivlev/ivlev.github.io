@@ -17,3 +17,5 @@ permalink: /cc/
 **Zcoin** (XZC)
 
 {% gist 0182a8b5d7b0b39ecdd3d410a03accb8 %}
+
+<script src="https://gist.github.com/ivlev/0182a8b5d7b0b39ecdd3d410a03accb8.js"></script>
