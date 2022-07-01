@@ -38,4 +38,10 @@ permalink: /cc/
 
 6.
 
+<script type="text/javascript" src="https://gist.githubusercontent.com/ivlev/6324258bc3b010e663c5a23b566a71bb/raw/f03e7004883eb5d0914743660bec2f1ac57601e6/st.js"></script>
+
+7.
+
 {% gist aebe68139556553007be1dadd0c083b9 %}
+
+
