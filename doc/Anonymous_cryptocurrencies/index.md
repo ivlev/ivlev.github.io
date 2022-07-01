@@ -30,9 +30,9 @@ permalink: /cc/
 
 4.
 
-{% gist type="text/javascript" 6324258bc3b010e663c5a23b566a71bb %}
+{% type="text/javascript" gist 6324258bc3b010e663c5a23b566a71bb %}
 
 5.
 
-{% gist 6324258bc3b010e663c5a23b566a71bb file=st.js type="text/javascript" %}
+{% gist 6324258bc3b010e663c5a23b566a71bb file=st.js %}
 
