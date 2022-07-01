@@ -18,7 +18,7 @@ permalink: /cc/
 
 1.
 
-<script type="text/javascript" src="https://gist.github.com/ivlev/6324258bc3b010e663c5a23b566a71bb.js"></script>
+<script type="text/javascript" src="https://gist.github.com/ivlev/6324258bc3b010e663c5a23b566a71bb.js">o</script>
 
 2.
 
@@ -30,7 +30,7 @@ permalink: /cc/
 
 4.
 
-{% type="text/javascript" gist 6324258bc3b010e663c5a23b566a71bb %}
+{% gist 6324258bc3b010e663c5a23b566a71bb %}
 
 5.
 
