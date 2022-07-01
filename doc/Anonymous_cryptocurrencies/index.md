@@ -38,4 +38,4 @@ permalink: /cc/
 
 6.
 
-{% aebe68139556553007be1dadd0c083b9 %}
+{% gist aebe68139556553007be1dadd0c083b9 %}
