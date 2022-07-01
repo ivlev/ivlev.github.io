@@ -36,4 +36,6 @@ permalink: /cc/
 
 {% gist 6324258bc3b010e663c5a23b566a71bb file=st.js %}
 
-{% aebe68139556553007be1dadd0c083b9#file-counter-js %}
+6.
+
+{% aebe68139556553007be1dadd0c083b9 %}
