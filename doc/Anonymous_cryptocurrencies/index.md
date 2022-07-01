@@ -30,9 +30,10 @@ permalink: /cc/
 
 4.
 
-{% gist 6324258bc3b010e663c5a23b566a71bb %}
+{% 	gist 6324258bc3b010e663c5a23b566a71bb %}
 
 5.
 
 {% gist 6324258bc3b010e663c5a23b566a71bb file=st.js %}
 
+{% aebe68139556553007be1dadd0c083b9#file-counter-js %}
