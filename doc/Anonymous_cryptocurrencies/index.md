@@ -22,7 +22,7 @@ permalink: /cc/
 
 {% gist 6324258bc3b010e663c5a23b566a71bb %}
 
-{% gist 6324258bc3b010e663c5a23b566a71bb script="text/javascript" %}
+{% gist 6324258bc3b010e663c5a23b566a71bb type="text/javascript" %}
 
-{% gist 6324258bc3b010e663c5a23b566a71bb st.js script="text/javascript" %}
+{% gist 6324258bc3b010e663c5a23b566a71bb st.js type="text/javascript" %}
 
