@@ -13,4 +13,5 @@ permalink: /offer/
 {% include doc/offer/sequence.md %}
 {% include doc/offer/rights.md %}
 {% include doc/offer/duties.md %}
+{% include doc/offer/responsibilities.md %}
 
