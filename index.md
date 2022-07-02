@@ -10,7 +10,7 @@
 
 {% include method.html %}
 
-![1](IF_GH.png)
+![1](_img/IF_GH.png)
 
 {% include technique.html %}
 
