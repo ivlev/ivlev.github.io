@@ -5,3 +5,4 @@ author: "Александр"
 permalink: /disclaimer/
 ---
 {% include doc/disclaimer/abstarct.md %}
+{% include doc/disclaimer/instructions.md %}
