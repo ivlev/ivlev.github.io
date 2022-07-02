@@ -10,8 +10,6 @@
 
 {% include method.html %}
 
-![1](_img/IF_GH.png)
-
 {% include technique.html %}
 
 {% include price.md %}
