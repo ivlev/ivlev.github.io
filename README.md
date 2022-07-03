@@ -1,4 +1,4 @@
-# ivlev.github.io
+# [ivlev.github.io](https://ivlev.github.io/)
 Psychotherapy for Russian-speaking IT professionals experiencing stress, fear, borderline states as a result of relocation, job change or dismissal.
 
 # Информированое согласие
@@ -9,7 +9,7 @@ Psychotherapy for Russian-speaking IT professionals experiencing stress, fear, b
 
 До начала работы терапевт обязан максимально раскрыть информацию об ограничениях, порядке проведения терапии, используемых методах и технике, стоимости и порядке оплаты, взаимной отвественности клиента и терапевта.
 
-Значимая форма этических норм отражена в Договоре публичной оферты
+Значимая форма этических норм отражена в [Договоре публичной оферты](https://ivlev.github.io/offer/)
 
 Psychotherapy for Russian-speaking IT professionals
 
@@ -19,7 +19,7 @@ Psychotherapy for Russian-speaking IT professionals
 
 Не даются консультации по преднамеренному обману, непосредственному сокрытию преступной деятельности и поощряющие корпоративные манипуляции, целью которых является получение карьерной выгоды в ущерб коллегам по работе.
 
-Для начала работы необходимо заполнить форму “Отказа от этических ограничений”, инструкции по заполнению приложены.
+Для начала работы необходимо [заполнить форму “Отказа от этических ограничений”](https://ivlev.github.io/disclaimer/), инструкции по заполнению приложены.
 
 ### Сеансы
 
@@ -49,7 +49,7 @@ Psychotherapy for Russian-speaking IT professionals
 
 Чтобы было удобно расчитывать стоимость, цена сеанса “отсчитывается” от лондонского времени (Великобритания).
 
-Текущая стоимость сеанса
+[Текущая стоимость сеанса](https://ivlev.github.io/value/)
 
 ## Оплата
 
