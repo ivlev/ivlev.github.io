@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
+layout: default
+include:
+  - "_img"
 title: Психологическая помощь русскоговорящим ит-специалистам
-description: Психологическая помощь русскоговорящим ит-специалистам / Psychotherapy for Russian-speaking IT professionals experiencing stress, fear, borderline states as a result of relocation, job change or dismissal.
+description: в состояниях стресса, тревоги, паники, вызванных релокацией, сменой работы, увольнением или личными проблемами / Psychotherapy for Russian-speaking IT professionals experiencing stress, fear, borderline states as a result of relocation, job change or dismissal.
+
