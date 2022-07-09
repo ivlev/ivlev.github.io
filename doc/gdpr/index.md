@@ -15,7 +15,7 @@ permalink: /github/
 
 Для пользователей не имеющих аккаунтов в сервисах *Github Inc* и *Github B.V.* представленная информация не имеет никакого значения, поскольку сайт https://ivlev.github.io **принципиально не ведет сбора информации о пользователях**, не высылает cookies, не использует трекеры отслеживания и не имплементирован с маркетинговыми сервисами аналитики Google, Microsoft, Yandex и прочими.
 
-Для более полной и точной информации вы можете ознакомиться с актуальной версией  [оригинала документа](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) находящемся в [собрании документов сервисов *Github Inc*
+Для более полной и точной информации вы можете ознакомиться с актуальной версией  [оригинала документа](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) находящемся в [собрании документов сервисов](https://docs.github.com/en) *Github Inc*
 
 ## GitHub Privacy Statement
 Дата вступления в силу: 31 мая 2022 г.
