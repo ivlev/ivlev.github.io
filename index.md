@@ -16,6 +16,8 @@
 
 {% include payment.html %}
 
+{% include gdpr.md %}
+
 {% include confidentiality.html %}
 
 {% include anonymity.html %}
