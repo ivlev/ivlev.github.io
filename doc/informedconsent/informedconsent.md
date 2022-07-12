@@ -6,7 +6,7 @@ permalink: /consent/
 ---
 {% include ethics.html %}
 
-![Psychotherapy for Russian-speaking IT professionals](_img/700b.png)
+![Psychotherapy for Russian-speaking IT professionals](/_img/700b.png)
 
 {% include refusal.html %}
 
