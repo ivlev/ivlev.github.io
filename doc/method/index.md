@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Метод"
+title: "Открытые принципы терапии и техники"
 author: "Александр"
 permalink: /method/
 ---
