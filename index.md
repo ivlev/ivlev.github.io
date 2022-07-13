@@ -8,4 +8,4 @@
 
 ![Psychotherapy for Russian-speaking IT professionals](_img/700b.png)
 
-<a href="https://ivlev.github.io/consent/">![Psychotherapy for Russian-speaking IT professionals](_img/0.png)</a>
+<a href="https://bit.ly/3yhBEb4" target=_blank>![Psychotherapy for Russian-speaking IT professionals](_img/0.png)</a>
