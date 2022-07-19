@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Резулььтат терапии"
+title: "Результат терапии"
 author: "Александр"
 permalink: /result/
 ---
