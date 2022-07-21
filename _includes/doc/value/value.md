@@ -1,7 +1,5 @@
 ## Текущая цена сеанса
 
-![Psychotherapy for Russian-speaking IT professionals](/_img/3.png)
-
 Действует **от** начала часа **до** окончания терапевтического акта
 
 |London UTC±0:00|Value|	
