@@ -9,6 +9,6 @@
 <a href="https://ivlev.github.io/disclaimer/">![Первая бесплатная сессия консультации психотерапевта](_img/6.png)</a>
 <a href="https://ivlev.github.io/consent/">![Согласованноый срок и длительность психотерапевтического акта](_img/7.png)</a>
 
-<!-- <a href="/">![Psychotherapy for Russian-speaking IT professionals](_img/700b.png)</a> -->
+<!-- <a href="/">![Psychotherapy for Russian-speaking IT professionals](_img/700b.png)</a> -->	
 
-<a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](_img/0.png)</a>
+<a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](_img/-1.png)</a>
