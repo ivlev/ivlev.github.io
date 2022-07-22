@@ -14,5 +14,5 @@ permalink: /offer/
 {% include doc/offer/rights.md %}
 {% include doc/offer/duties.md %}
 {% include doc/offer/responsibilities.md %}
-<a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/700b.png)</a>
+<!-- <a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/700b.png)</a> -->	
 
