@@ -4,7 +4,7 @@
 <a href="https://ivlev.github.io/method/">![Гештальт, рационально-эмотивная терапия Эллисона, РЭТ](_img/1.png)</a>
 <a href="https://ivlev.github.io/result/">![Самостоятельное отсечение иррациональных страхов, фобий и эмоций](_img/2.png)</a>
 <a href="https://ivlev.github.io/value/">![Цена сессии и расчет стоимости психотерапии](_img/3.png)</a>
-<a href="https://ivlev.github.io/consent/">![Безопасность конфиденциальность анонимность психотерапии](_img/4.png)</a>
+<a href="/security/">![Безопасность конфиденциальность анонимность психотерапии](_img/4.png)</a>
 <a href="https://ivlev.github.io/consent/">![Информированное согласие клиента психотерапии](_img/5.png)</a>
 <a href="https://ivlev.github.io/disclaimer/">![Первая бесплатная сессия консультации психотерапевта](_img/6.png)</a>
 <a href="https://ivlev.github.io/consent/">![Согласованноый срок и длительность психотерапевтического акта](_img/7.png)</a>

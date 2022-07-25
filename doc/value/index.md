@@ -4,7 +4,7 @@ title: "Цена услуг"
 author: "Александр"
 permalink: /value/
 ---
-![Текуущая стоиость сеансов психотерапии](/_img/3.png)
+![Текуущая стоимость сеансов психотерапии](/_img/3.png)
 {% include doc/value/value.md %}
 ![Как расчитать стоимость сеанса психотерапии](/_img/3-1.png)
 {% include doc/value/valuation.md %}
