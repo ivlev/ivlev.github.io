@@ -4,27 +4,27 @@ title: "Информированное согласие"
 author: "Александр"
 permalink: /consent/
 ---
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Этика оказания психотерапевтической помощи](/_img/5.png)
 {% include ethics.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Отказ в психотерапевтической помощи](/_img/5-1.png)
 {% include refusal.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Психотерапевтическая сессия](/_img/5-2.png)
 {% include sessions.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Метод психотерапии](/_img/5-3.png)
 {% include method.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Технические аспекты психотерапевтических сеансов](/_img/5-4.png)
 {% include technique.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Стоимость психотерапевтических сеансов](/_img/5-5.png)
 {% include price.md %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Порядок оплаты психотерапевтических сеансов](/_img/5-6.png)
 {% include payment.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Политика обработки персональных данных психотерапевтичесих сеансов](/_img/5-7.png)
 {% include gdpr.md %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Конфиденциальность отношений психотерапевта и клиента](/_img/5-8.png)
 {% include confidentiality.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Анонимность психотерапии](/_img/5-9.png)
 {% include anonymity.html %}
-![Psychotherapy for Russian-speaking IT professionals](/_img/5.png)
+![Результат гештальт и рационально-эмотивной психотерапии](/_img/5-10.png)
 {% include result.html %}
 <a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/0.png)</a>
 <a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>	
