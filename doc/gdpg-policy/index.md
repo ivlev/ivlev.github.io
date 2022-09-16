@@ -4,4 +4,5 @@ title: "Политика работы с персональными данным
 author: "Александр"
 permalink: /gdpr-policy/
 ---
+{% include doc/gdpr/abstract.md %}
 {% include doc/gdpr/gdpr-policy.md %}
