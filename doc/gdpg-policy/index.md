@@ -11,10 +11,11 @@ permalink: /gdpr-policy/
 {% include doc/gdpr/temporarydata.md %}
 {% include doc/gdpr/datastorage.md %}
 {% include doc/gdpr/useofinformation.md %}
+{% include doc/gdpr/storagetime.md %}
 
 ## Основной раздел целиком
 {% include doc/gdpr/gdpr-policy.md %}
 
 
 <a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/0.png)</a>
-<a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>
+<a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>  
