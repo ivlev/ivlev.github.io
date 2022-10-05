@@ -4,7 +4,7 @@ title: "Политика работы с персональными данным
 author: "Александр"
 permalink: /gdpr-policy/
 ---
-{% include doc/gdpr/abstract.md %}
+{% include doc/gdpr/abstract.md %}  
 {% include doc/gdpr/papervsdigits.md %}
 {% include doc/gdpr/collectdigits.md %}
 {% include doc/gdpr/inblo.md %}
@@ -13,6 +13,7 @@ permalink: /gdpr-policy/
 {% include doc/gdpr/useofinformation.md %}      
 {% include doc/gdpr/storagetime.md %}
 {% include doc/gdpr/yourrights.md %}
+{% include doc/gdpr/dataleak.md %}
 
 ## Основной раздел целиком
 {% include doc/gdpr/gdpr-policy.md %}
