@@ -10,8 +10,9 @@ permalink: /gdpr-policy/
 {% include doc/gdpr/inblo.md %}
 {% include doc/gdpr/temporarydata.md %}
 {% include doc/gdpr/datastorage.md %}
-{% include doc/gdpr/useofinformation.md %}
+{% include doc/gdpr/useofinformation.md %}      
 {% include doc/gdpr/storagetime.md %}
+{% include doc/gdpr/yourrights.md %}
 
 ## Основной раздел целиком
 {% include doc/gdpr/gdpr-policy.md %}
