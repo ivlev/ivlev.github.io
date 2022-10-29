@@ -1,7 +1,7 @@
 # [ivlev.github.io](https://ivlev.github.io/)
 Psychotherapy for Russian-speaking IT professionals experiencing stress, fear, borderline states as a result of relocation, job change or dismissal.
 
-# информированное согласие
+# Информированное согласие
 
 ## Этика психологической помощи
 
