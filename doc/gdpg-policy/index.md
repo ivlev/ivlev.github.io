@@ -14,6 +14,7 @@ permalink: /gdpr-policy/
 {% include doc/gdpr/storagetime.md %}
 {% include doc/gdpr/yourrights.md %}
 {% include doc/gdpr/dataleak.md %}
+{% include doc/gdpr/obligationtodiscloseinformation.md %}
 
 ## Основной раздел целиком
 {% include doc/gdpr/gdpr-policy.md %}
