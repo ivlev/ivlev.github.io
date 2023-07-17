@@ -3,6 +3,7 @@ layout: post
 title: "Цена услуг"
 author: "Александр"
 permalink: /value/
+description: "стоиомсть часа сессии зависит от графика приёма и определяется часовым поясом в котором проживает клиент"
 ---
 {% include doc/value/value_base.md %}
 
