@@ -1,27 +1,113 @@
----
-layout: null
-search: exclude
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    {% for page in site.pages %}
+    
     <url>
-        <loc>{{page.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
+        <loc>https://scr.ru/ab/</loc>
+        <lastmod>2023-07-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
-    {% endfor %}
+    
+    <url>
+        <loc>https://scr.ru/cc/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/github/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/disclaimer/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/result/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/value/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/gdpr-policy/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/method/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/offer/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/security/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/consent/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/sitemap.xml</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/assets/css/style.css</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://scr.ru/404.html</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+			<loc>https://scr.ru/</loc>
+        <lastmod>2023-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
 
-    {% for post in site.posts %}
-    <url>
-        <loc>{{post.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    {% endfor %}
+    
 
 </urlset>
