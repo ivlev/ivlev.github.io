@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Общее положение о защите персональных данных (GDPR)"
-шuthor: "Александр"
+author: "Александр"
 permalink: /github/
 excerpt_separator: <!--more-->
 ---
