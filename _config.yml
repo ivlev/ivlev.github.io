@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 layout: default
+excerpt_separator: <!--more-->
 include:
   - "_img"
 title: Психологическая помощь русскоговорящим ит-специалистам
