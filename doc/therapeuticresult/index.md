@@ -12,7 +12,7 @@ description: "Описание признаваемого сторонами р�
 {% include doc/therapeuticresult/pathtoresult_scrt.md %}   
 <a href="/decompression/">![Психологическая декомпрессия на поъёме с глубины подсознания в реальную жизнь](/_img/22.png)</a>  
 {% include doc/therapeuticresult/decompression_scrt.md %}  
-</a href="/disruption/">![Разрыв работы с терапевтом](/_img/23.png)</a>
+<a href="/disruption/">![Разрыв работы с терапевтом](/_img/23.png)</a>
 {% include doc/therapeuticresult/disruption_scrt.md %}  
 <a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/0.png)</a>  
 <a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>
