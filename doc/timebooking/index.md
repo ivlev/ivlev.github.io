@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Общее положение о защите персональных данных (GDPR)"
+title: "Резервирование времени сессий"
 author: "Александр"
 permalink: /timebooking/
-excerpt_separator: <!--more-->
+description: "Резервирование свободных слотов бесплатных и казуальных психотерапевтических сессий на текущий месяц"
 ---
 
-<a href="/method/">![Бронирование бесплатных сессий](/_img/A.svg)</a>
-<a href="/result/">![Бронирование плантых сессий](/_img/B.svg)</a>
+<a href="/free/">![Бронирование бесплатных сессий](/_img/A.svg)</a>
+<a href="/pay/">![Бронирование платных сессий](/_img/B.svg)</a>
+<a href="/timebooking/">![Бронирование сессий](/_img/AB.svg)</a>
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/asomatic/variable" style="min-width:370px;height:1200px;"></div>
