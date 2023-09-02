@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="AB.svg"
-   inkscape:export-filename="/home/alexander/Documents/ivlev.ru/GitHub/A.png"
+   inkscape:export-filename="/home/alexander/Documents/ivlev.ru/GitHub/AB.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67534224"
-     inkscape:cx="743.05448"
-     inkscape:cy="245.73386"
+     inkscape:cx="381.23003"
+     inkscape:cy="317.66409"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -81,6 +81,11 @@
        position="184.8436,48.081788"
        orientation="0,1"
        id="guide91"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="87.953861,109.89335"
+       orientation="-0.97595286,0.21798167"
+       id="guide930"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -207,65 +212,76 @@
        cx="77.28878"
        cy="109.80846"
        r="38.292011" />
-    <path
-       style="fill:none;stroke:#0d3c6a;stroke-width:9.29800034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 76.809419,151.15681 v 19.07864"
-       id="path903"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:61.87054825px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:1.54676366;stroke-opacity:1"
-       x="61.807446"
-       y="130.78448"
+       style="font-style:normal;font-weight:normal;font-size:36.54925537px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:0.9137314;stroke-opacity:1"
+       x="52.681938"
+       y="108.85133"
        id="text924"><tspan
          sodipodi:role="line"
          id="tspan922"
-         x="61.807446"
-         y="130.78448"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-family:'Fira Sans Extra Condensed';-inkscape-font-specification:'Fira Sans Extra Condensed, Heavy Ultra-Condensed';fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:1.54676366;stroke-opacity:1">A</tspan></text>
+         x="52.681938"
+         y="108.85133"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-family:'Fira Sans Extra Condensed';-inkscape-font-specification:'Fira Sans Extra Condensed, Heavy Ultra-Condensed';fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:0.9137314;stroke-opacity:1">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:33.90504837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:0.84762615"
-       x="146.61861"
-       y="106.39101"
+       x="145.4433"
+       y="107.97849"
        id="text931"><tspan
          sodipodi:role="line"
          id="tspan929"
-         x="146.61861"
-         y="106.39101"
+         x="145.4433"
+         y="107.97849"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-family:'Fira Sans Extra Condensed';-inkscape-font-specification:'Fira Sans Extra Condensed, Heavy Ultra-Condensed';fill:#1a78d4;fill-opacity:1;stroke-width:0.84762615">Free/Pro Bono</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.85742378px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0d3c6a;fill-opacity:1;stroke:none;stroke-width:0.32143557"
-       x="145.27727"
-       y="142.22142"
-       id="text936"><tspan
-         sodipodi:role="line"
-         id="tspan934"
-         x="145.27727"
-         y="142.22142"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold';fill:#0d3c6a;fill-opacity:1;stroke-width:0.32143557">в интересах общества</tspan></text>
-    <text
-       id="text950"
-       y="131.31612"
-       x="145.67802"
-       style="font-style:normal;font-weight:normal;font-size:12.85742378px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0d3c6a;fill-opacity:1;stroke:none;stroke-width:0.32143557"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold';fill:#0d3c6a;fill-opacity:1;stroke-width:0.32143557"
-         y="131.31612"
-         x="145.67802"
-         id="tspan948"
-         sodipodi:role="line">и анонимные консультации</tspan></text>
-    <text
        id="text954"
-       y="121.56142"
-       x="145.07549"
+       y="82.403099"
+       x="145.60464"
        style="font-style:normal;font-weight:normal;font-size:12.85742378px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0d3c6a;fill-opacity:1;stroke:none;stroke-width:0.32143557"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold';fill:#0d3c6a;fill-opacity:1;stroke-width:0.32143557"
-         y="121.56142"
-         x="145.07549"
+         y="82.403099"
+         x="145.60464"
          id="tspan952"
          sodipodi:role="line">Бесплатные сессии</tspan></text>
+    <text
+       id="text121"
+       y="135.88393"
+       x="81.281639"
+       style="font-style:normal;font-weight:normal;font-size:36.54925537px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:0.9137314;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-family:'Fira Sans Extra Condensed';-inkscape-font-specification:'Fira Sans Extra Condensed, Heavy Ultra-Condensed';fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:0.9137314;stroke-opacity:1"
+         y="135.88393"
+         x="81.281639"
+         id="tspan119"
+         sodipodi:role="line">B</tspan></text>
+    <path
+       style="fill:#0d3c6a;fill-opacity:1;stroke:#1a78d4;stroke-width:7.43532085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 83.50986,79.336774 72.093086,135.9717"
+       id="path123"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.30985641px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a78d4;fill-opacity:1;stroke:none;stroke-width:0.85774636"
+       x="145.4848"
+       y="136.48282"
+       id="text931-3"><tspan
+         sodipodi:role="line"
+         id="tspan929-6"
+         x="145.4848"
+         y="136.48282"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-family:'Fira Sans Extra Condensed';-inkscape-font-specification:'Fira Sans Extra Condensed, Heavy Ultra-Condensed';fill:#1a78d4;fill-opacity:1;stroke-width:0.85774636">Out of plan</tspan></text>
+    <text
+       id="text954-7"
+       y="148.05919"
+       x="146.63718"
+       style="font-style:normal;font-weight:normal;font-size:12.54250622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0d3c6a;fill-opacity:1;stroke:none;stroke-width:0.31356263"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold';fill:#0d3c6a;fill-opacity:1;stroke-width:0.31356263"
+         y="148.05919"
+         x="146.63718"
+         id="tspan952-5"
+         sodipodi:role="line">Платные сессии вне графика</tspan></text>
   </g>
 </svg>
