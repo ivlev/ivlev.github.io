@@ -9,5 +9,3 @@ excerpt_separator: <!--more-->
 <a href="/method/">![Бронирование бесплатных сессий](/_img/A.svg)</a>
 <a href="/result/">![Бронирование плантых сессий](/_img/B.svg)</a>
 
-<a href="/method/">![Бронирование бесплатных сессий](/_img/A.png)</a>
-<a href="/result/">![Бронирование плантых сессий](/_img/B.png)</a>
