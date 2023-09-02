@@ -6,7 +6,7 @@ permalink: /value_casual/
 description: "Стоимость психотерапевтической сессии для клиентов в разных часовых поясах вне локального рабочего графика"
 ---
 
-![Текущая стоимость сеансов психотерапии](/_img/3.png)
+<a href="/value/">![Текущая стоимость сеансов психотерапии](/_img/3.png)</a>
 {% include doc/value/value.md %}
 {% include doc/value/footnote.md %}
 
