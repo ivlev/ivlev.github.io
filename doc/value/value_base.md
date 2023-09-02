@@ -2,7 +2,7 @@
 layout: post
 title: "Цена сеансов"
 author: "Александр"
-permalink: /value/
+permalink: /value_base/
 description: "Стоимость психотерапевтической сессии проводимой понедельника по субботу время московское"
 ---
 
