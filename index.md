@@ -7,12 +7,6 @@ description: "Психотерапия для русскоязычных спе�
 
 ## депрессия, стресс, тревога, страх, паника, выгорание, фобии, демотивированность, агрессия, фрустрация, проблемы общения и делегирования, гиперконтроль, пограничные состояния, бессонница, нарушение пищевого поведения и прочие состояния
 
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/psaf/on_demand', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
-
 <a href="/method/">![Гештальт, рационально-эмотивная терапия Эллисона, РЭТ](_img/1.png)</a>
 <a href="/result/">![Самостоятельное отсечение иррациональных страхов, фобий и эмоций](_img/2.png)</a>
 <a href="/value/">![Цена сессии и расчет стоимости психотерапии](_img/3.png)</a>
