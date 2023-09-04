@@ -8,4 +8,5 @@ description: "Резервирование свободных слотов бе�
 
 {% include /doc/timebooking/free.md %}
 {% include /doc/timebooking/freebooking.md %}
+{% include /doc/timebooking/footer.md %}
 
