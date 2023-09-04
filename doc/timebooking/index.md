@@ -8,4 +8,4 @@ description: "Резервирование свободных слотов бе�
 
 {% include /doc/timebooking/booking.md %}
 
-
+{% include footer.md %}
