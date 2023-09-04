@@ -6,6 +6,8 @@ permalink: /free/
 description: "Резервирование свободных слотов бесплатных и казуальных психотерапевтических сессий на текущий месяц"
 ---
 
+{% include /doc/timebooking/free.md %}
+
 <a href="/free/">![Бронирование бесплатных сессий](/_img/A.svg)</a>
 <a href="/pay/">![Бронирование платных сессий](/_img/B.svg)</a>
 <a href="/timebooking/">![Бронирование сессий](/_img/AB.svg)</a>
