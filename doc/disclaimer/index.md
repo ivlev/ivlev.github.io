@@ -9,5 +9,6 @@ description: "Порядок и правила заполения специал
 {% include doc/disclaimer/abstract.md %}
 ![инструкция по заполеннию формы отказа от ограничений](/_img/6.png)
 {% include doc/disclaimer/instructions.md %}
+{% include head.html %}
 <a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/0.png)</a>
 <a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>

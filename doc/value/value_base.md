@@ -7,4 +7,5 @@ description: "Стоимость психотерапевтической сес
 ---
 
 {% include doc/value/value_base.md %}
+{% include head.html %}
 {% include doc/value/footnote.md %}
