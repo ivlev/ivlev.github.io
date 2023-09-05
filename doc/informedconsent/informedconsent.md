@@ -28,6 +28,5 @@ description: "Полное и общее описание целей, поряд
 ![Результат гештальт и рационально-эмотивной психотерапии](/_img/5-10.png)
 {% include result.html %}
 {% include head.html %}
-<a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/0.png)</a>
-<a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>	
+{% include footer.md %}
 

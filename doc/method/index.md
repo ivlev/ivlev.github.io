@@ -14,5 +14,4 @@ description: "Развернутое описание двух базовых м
 <a href="/rebt/">![Рационально-эмотивная терапия](/_img/11-2.png)</a>
 {% include doc/method/rebt_scrt.md %}
 {% include head.html %}
-<a href="/">![Psychotherapy for Russian-speaking IT professionals](/_img/0.png)</a>
-<a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>
+{% include footer.md %}
