@@ -9,6 +9,6 @@ description: "Стоимость психотерапевтической сес
 <a href="/value/">![Текущая стоимость сеансов психотерапии](/_img/3.png)</a>
 {% include doc/value/value.md %}
 {% include head.html %}
-{% include doc/value/footnote.md %}
+{% include doc/value/footer.md %}
 
 

@@ -14,5 +14,4 @@ description: "Стоимость психотерапевтической сес
 <a href="/example/">![Примеры расчета стоимости сеанса психотерапии](/_img/3-2.png)
 {% include doc/value/example_scrt.md %}
 {% include head.html %}
-<a href="/">![Психотерапия для русскоговорящих ит-профессионалов](/_img/0.png)</a>
-<a href="https://bit.ly/3yhBEb4" target=_blank>![Вопросы ответы для пациента психотерапевта](/_img/-1.png)</a>
+% include footer.html %}

@@ -9,4 +9,4 @@ description: "Пример расчёта стоимости психотера�
 <a  href="/value/">![Как расчитать стоимость сеанса психотерапии](/_img/3-1.png)</a>
 {% include doc/value/valuation.md %}
 {% include head.html %}
-{% include doc/value/footnote.md %}
+{% include doc/value/footer.md %}
