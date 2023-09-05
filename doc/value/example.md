@@ -8,5 +8,6 @@ description: "Пример расчёта стоимости услуг для �
 
 <a href="/value/">![Примеры расчета стоимости сеанса психотерапии](/_img/3-2.png)</a>
 {% include doc/value/example.md %}
-{% include doc/value/footnote.md %}
 {% include head.html %}
+{% include doc/value/footer.md %}
+
