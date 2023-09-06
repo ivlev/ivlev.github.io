@@ -7,16 +7,16 @@ description: "Разьяснение общих правил и техники �
 ---
 
 ![Введение в безопасную психотерапию](/_img/4.png)
-{% include doc/security/abstracts.md %}
+{% include doc/security/abstracts_scrt.md %}
 ![Анонимность психотерапии](/_img/4-1.png)
-{% include doc/security/anonymity.md %}
+{% include doc/security/anonymity_scrt.md %}
 ![Конфиденциальность психотеапии](/_img/4-2.png)
-{% include doc/security/confidentiality.md %}
+{% include doc/security/confidentiality_scrt.md %}
 ![Согласие на обработку персональных данных в психотерапии](/_img/4-3.png)
-{% include doc/security/consentprocessingpersonaldata.md %}
+{% include doc/security/consentprocessingpersonaldata_scrt.md %}
 ![Политика обрабобтки персональных данных в психотерапии](/_img/4-4.png)
-{% include doc/security/personaldatapolicy.md %}
+{% include doc/security/personaldatapolicy_scrt.md %}
 ![Коммерческкая тайна третьих лиц в психотерапии](/_img/4-5.png)
-{% include doc/security/tradesecret.md %}
+{% include doc/security/tradesecret_scrt.md %}
 {% include head.html %}
 {% include footer.md %}
