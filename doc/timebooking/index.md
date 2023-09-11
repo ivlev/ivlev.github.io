@@ -7,5 +7,5 @@ description: "Резервирование свободных слотов бе�
 ---
 
 {% include /doc/timebooking/booking.md %}
-
+{% include /doc/timebooking/bookingabstract.md %}
 {% include footer.md %}
