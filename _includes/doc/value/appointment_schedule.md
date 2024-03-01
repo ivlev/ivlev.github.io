@@ -1,4 +1,4 @@
-График приёма на *март, апрель, май 2024 года**
+График приёма на **март, апрель, май 2024 года**
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/regular-sessions" style="min-width:320px;height:700px;"></div>
